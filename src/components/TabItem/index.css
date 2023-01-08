@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.tab-item {
+  text-align: center;
+}
+.tab-name {
+  color: #7b8794;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px;
+  text-decoration: underline;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.active-tab-name {
+  color: #2563eb;
+}
